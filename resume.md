@@ -11,7 +11,6 @@ Certified Information Systems Auditor, received July 07, 2017
 Internal Audit – Texas Workforce Commission, Austin, TX  
 IT Auditor III - October 2019 to Current  
 IT Auditor II - November 2017 to October 2019
-
 - Managed audits of information technology systems, processes, and governance, including evaluation of internal controls, analysis of information security, and audit report preparation
 - Provided technical support and guidance to other audit staff
 - Mapped agency processes, associated risks, and key controls
@@ -50,6 +49,7 @@ Awarded May 2010 – GPA 3.5, University of Texas – Pan American, Edinburg, TX
 ## Skills ##
 - Proficient with Windows, OSX, and Linux (Ubuntu/RHEL/Manjaro/Solus)
 - Comfortable with CLI – ssh, user entitlement, scripting, and compiling
-- Experience with and advocate of Process Mapping, Data Analytics, 
+- Experience with and advocate of Process Mapping, Data Analytics, and Plain English writing
+- Experience with Red Book, Yellow Book, and Green Book standards
 - Experience using Amazon AWS, Google Cloud, and Microsoft Azure
 - Familiar with NIST, COBIT, FERPA and HIPPA security standards
