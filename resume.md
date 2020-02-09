@@ -10,11 +10,11 @@ Certified Information Systems Auditor, received July 07, 2017
 ## Experience ##
 ### Information Technology Auditor ###
 
-**Internal Audit – Texas Workforce Commission, Austin, TX**
+Internal Audit – Texas Workforce Commission, Austin, TX
 
-**IT Auditor III - October 2019 to Current**
+IT Auditor III - October 2019 to Current
 
-**IT Auditor II - November 2017 to October 2019**
+IT Auditor II - November 2017 to October 2019
 
 - Managed audits of information technology systems, processes, and governance, including evaluation of internal controls, analysis of information security, and audit report preparation
 - Provided technical support and guidance to other audit staff
@@ -24,11 +24,11 @@ Certified Information Systems Auditor, received July 07, 2017
 - Supported agency functions as liaison for IT Steering Committee, Electronic Information Accessibility, and Intranet development
 
 ### Auditor ###
-**State Auditor’s Office, Austin, TX**
+State Auditor’s Office, Austin, TX
 
-**Senior Auditor – August 2016 to October 2017**
+Senior Auditor – August 2016 to October 2017
 
-**Staff Auditor – August 2013 to August 2016**
+Staff Auditor – August 2013 to August 2016
 - Performed, reviewed, and led compliance audits, including IT controls
 - Trained staff as Team Lead and Peer Mentor
 - Analyzed data to identify trends, outliers and risks in large data sets
