@@ -5,11 +5,8 @@ A remote-work position that leverages my audit experience to monitor and improve
 Certified Information Systems Auditor, received July 07, 2017
 ## Experience ##
 ### Information Technology Auditor ###
-
-Internal Audit – Texas Workforce Commission, Austin, TX
-
-IT Auditor III - October 2019 to Current
-
+Internal Audit – Texas Workforce Commission, Austin, TX  
+IT Auditor III - October 2019 to Current  
 IT Auditor II - November 2017 to October 2019
 
 - Managed audits of information technology systems, processes, and governance, including evaluation of internal controls, analysis of information security, and audit report preparation
@@ -20,10 +17,8 @@ IT Auditor II - November 2017 to October 2019
 - Supported agency functions as liaison for IT Steering Committee, Electronic Information Accessibility, and Intranet development
 
 ### Auditor ###
-State Auditor’s Office, Austin, TX
-
-Senior Auditor – August 2016 to October 2017
-
+State Auditor’s Office, Austin, TX  
+Senior Auditor – August 2016 to October 2017  
 Staff Auditor – August 2013 to August 2016
 - Performed, reviewed, and led compliance audits, including IT controls
 - Trained staff as Team Lead and Peer Mentor
@@ -31,12 +26,10 @@ Staff Auditor – August 2013 to August 2016
 - Interviewed clients in-person, teleconference, screen-sharing 
 
 ## Education ##
-**Post-Baccalaureate Auditing/Accounting Coursework**
-
+**Post-Baccalaureate Auditing/Accounting Coursework**  
 54 Credit Hours – Completed December 2014 – GPA: 3.5
 
-**Bachelor of Science in Biology**
-
+**Bachelor of Science in Biology**  
 Awarded May 2010 – GPA 3.5, University of Texas – Pan American, Edinburg, TX
 
 ## Notable Audits ##
