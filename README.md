@@ -1,4 +1,4 @@
-# Introduction#
+# Introduction #
 
 Since it was a journey to become an IT Auditor, I wanted to provide additional information that does not exactly fit into a cover letter or résumé.
 
