@@ -1,3 +1,5 @@
+layout: page
+title: "Résumé"
 ## Objective ##
 A remote-work position that leverages my audit experience to monitor and improve the company through interviews, process mapping, and data analytics.
 
