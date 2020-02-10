@@ -1,4 +1,4 @@
-title:Martin Torres, CISA  
+title: "Martin Torres, CISA"  
 # Background #
 I started off at the University of Texas Pan American studying Biology with the goal of becoming a PhD botanist. After the recession in the mid-2000s and the realization that my prospects as a microscope-focused botanist were limited, I began searching for other jobs. However, the recession heavily hit positions I qualified for, so I fell back on my part-time job while in college: teaching.  
 After receiving my teaching certification in high school science, I was quickly swept in a position as a high school physics teacher in South Texas. With only about three months passing, I dropped out of a PhD program, became a certified teacher, and was hired as a teacher.  
