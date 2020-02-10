@@ -16,7 +16,8 @@ IT Auditor II - November 2017 to October 2019
 - Mapped agency processes, associated risks, and key controls
 - Developed audit staff through ad hoc guidance, formal management, and improvement of audit procedures
 - Researched federal and state laws, agency policies, and best practices to identify audit criteria
-- Supported agency functions as liaison for IT Steering Committee, Electronic Information Accessibility, and Intranet development
+- Telecommuted and supported other auditors via Skype/Teams, text, and phone call
+- Supported agency functions as liaison for IT Steering Committees, EIR Accessibility, and Intranet Development
 
 ### Auditor ###
 State Auditor’s Office, Austin, TX  
@@ -24,8 +25,8 @@ Senior Auditor – August 2016 to October 2017
 Staff Auditor – August 2013 to August 2016
 - Performed, reviewed, and led compliance audits, including IT controls
 - Trained staff as Team Lead and Peer Mentor
-- Analyzed data to identify trends, outliers and risks in large data sets
-- Interviewed clients in-person, teleconference, screen-sharing 
+- Analyzed data to identify trends, outliers, and risks in large data sets
+- Interviewed clients in-person, teleconference, screen-sharing (Skype, GoToMyPC)
 
 ## Education ##
 **Post-Baccalaureate Auditing/Accounting Coursework**  
@@ -51,5 +52,6 @@ Awarded May 2010 – GPA 3.5, University of Texas – Pan American, Edinburg, TX
 - Comfortable with CLI – ssh, user entitlement, scripting, and compiling
 - Experience with and advocate of Process Mapping, Data Analytics, and Plain English writing
 - Experience with Red Book, Yellow Book, and Green Book standards
+- Experience with NIST, COBIT, FERPA and HIPPA security standards
 - Experience using Amazon AWS, Google Cloud, and Microsoft Azure
-- Familiar with NIST, COBIT, FERPA and HIPPA security standards
+
